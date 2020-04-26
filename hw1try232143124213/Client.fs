@@ -6,6 +6,7 @@ open WebSharper.JQuery
 open WebSharper.UI
 open WebSharper.UI.Client
 open WebSharper.UI.Templating
+open System
 
 [<JavaScript>]
 module Client =

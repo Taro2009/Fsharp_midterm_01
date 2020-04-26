@@ -501,7 +501,7 @@ if(!p.closest){p.closest=function(s){var e=this;while(e&&e.nodeType==1){if(e.mat
          if(m==="cos")
           n2.Set((c$6=Math.cos(Global.Number(n2.Get())),Global.String(c$6)));
          else
-          throw new MatchFailureException.New("Client.fs",31,18);
+          throw new MatchFailureException.New("Client.fs",32,18);
   }
   function Clearnum1()
   {
